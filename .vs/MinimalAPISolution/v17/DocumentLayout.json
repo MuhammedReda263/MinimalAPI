@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4EBE4BF-1A5F-4771-902A-575877F16EEA}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\muhammed reda\\desktop\\minimalapisolution\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4EBE4BF-1A5F-4771-902A-575877F16EEA}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EBE4BF-1A5F-4771-902A-575877F16EEA}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\muhammed reda\\desktop\\minimalapisolution\\minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EBE4BF-1A5F-4771-902A-575877F16EEA}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +38,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\MinimalAPISolution\\MinimalAPI\\Models\\product.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Models\\product.cs",
+              "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\MinimalAPISolution\\MinimalAPI\\Models\\product.cs",
+              "RelativeToolTip": "MinimalAPI\\Models\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:56:09.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Muhammed Reda\\Desktop\\MinimalAPISolution\\MinimalAPI\\Program.cs",
               "RelativeDocumentMoniker": "MinimalAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Muhammed Reda\\Desktop\\MinimalAPISolution\\MinimalAPI\\Program.cs",
               "RelativeToolTip": "MinimalAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T00:35:30.35Z",
               "EditorCaption": ""
